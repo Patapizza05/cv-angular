@@ -3,10 +3,15 @@ import {NgModule} from '@angular/core';
 
 import {AppComponent} from './app.component';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
+import {CategoryTitleComponent} from './components/category/category-title.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    HeaderComponent,
+    CategoryTitleComponent,
+    BannerComponent,
+    FormationsComponent,
   ],
   imports: [
     BrowserModule,
