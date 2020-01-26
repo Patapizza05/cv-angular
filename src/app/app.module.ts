@@ -9,6 +9,7 @@ import {FormationsComponent} from './components/formations/formations.component'
 import {SkillsComponent} from './components/skills/skills.component';
 import {HobbiesComponent} from './components/hobbies/hobbies.component';
 import {ExperiencesComponent} from './components/experiences/experiences.component';
+import {ProjectsComponent} from './components/projects/projects.component';
 
 @NgModule({
   declarations: [
