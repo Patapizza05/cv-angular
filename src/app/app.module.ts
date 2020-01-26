@@ -6,7 +6,7 @@ import {CategoryTitleComponent} from './components/category/category-title.compo
 import {BannerComponent} from './components/banner/banner.component';
 import {HeaderComponent} from './components/header/header.component';
 import {FormationsComponent} from './components/formations/formations.component';
-import {MatCardModule} from '@angular/material';
+import {SkillsComponent} from './components/skills/skills.component';
 import {HobbiesComponent} from './components/hobbies/hobbies.component';
 import {ExperiencesComponent} from './components/experiences/experiences.component';
 
