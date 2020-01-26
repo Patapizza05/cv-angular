@@ -7,6 +7,7 @@ import {BannerComponent} from './components/banner/banner.component';
 import {HeaderComponent} from './components/header/header.component';
 import {FormationsComponent} from './components/formations/formations.component';
 import {MatCardModule} from '@angular/material';
+import {ExperiencesComponent} from './components/experiences/experiences.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import {MatCardModule} from '@angular/material';
     HeaderComponent,
     CategoryTitleComponent,
     BannerComponent,
-    FormationsComponent
+    FormationsComponent,
+    ExperiencesComponent,
   ],
   imports: [
     BrowserModule,
