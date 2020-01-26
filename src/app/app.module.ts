@@ -10,6 +10,7 @@ import {SkillsComponent} from './components/skills/skills.component';
 import {HobbiesComponent} from './components/hobbies/hobbies.component';
 import {ExperiencesComponent} from './components/experiences/experiences.component';
 import {ProjectsComponent} from './components/projects/projects.component';
+import {LanguagesComponent} from './components/languages/languages.component';
 
 @NgModule({
   declarations: [
